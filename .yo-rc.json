@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.github.jdubois.simpleapp"
+    },
+    "jhipsterVersion": "6.1.0",
+    "applicationType": "microservice",
+    "baseName": "simpleApp",
+    "packageName": "io.github.jdubois.simpleapp",
+    "packageFolder": "io/github/jdubois/simpleapp",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTI4MTU4ZWVjNTllYjdkYjg4MmNhNjdkYzYzZGJiNDVhNmU5NGMyZjBjZDdjMGQ3MDFkMWNmNGY0ZDVjMDQ5MTg3MmYzZTI3YTA1MmM0YmJjZGM2YzI5ZGJmNGQwZjQ4MDhkMmM5MjBmNzQ3OWQzMjJiNzE2ZGMzMTBjNDhkNzQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
